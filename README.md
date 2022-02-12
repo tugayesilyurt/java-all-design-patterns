@@ -1,5 +1,9 @@
 # All Design pattern samples in Java.
 
+- **Patterns**
+
+![Patterns](https://github.com/tugayesilyurt/java-all-design-patterns/blob/main/assets/patterns.PNG)
+
 Yaratım Desenleri:
 ---
 
@@ -37,7 +41,4 @@ Davranış Desenleri:
 * Kalıp Yordamı (Template method)
 * Ziyaretçi(Visitor)
 
-- **Patterns**
-
-![Patterns](https://github.com/tugayesilyurt/java-all-design-patterns/blob/main/assets/patterns.PNG)
 
